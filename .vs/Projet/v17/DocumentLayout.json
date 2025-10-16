@@ -1,0 +1,161 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MEGA_PC PLUS\\Desktop\\RIAHI_MOHAMED_AYOUB_U6_IR\\ANNEXES\\Code source\\Projet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F24CB16-3D4D-49C2-90AF-0EEC4AE57651}|BiblioProjet\\BiblioProjet.csproj|c:\\users\\mega_pc plus\\desktop\\riahi_mohamed_ayoub_u6_ir\\annexes\\code source\\projet\\biblioprojet\\bdd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F24CB16-3D4D-49C2-90AF-0EEC4AE57651}|BiblioProjet\\BiblioProjet.csproj|solutionrelative:biblioprojet\\bdd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83F7B8AF-0F03-45EF-BF92-78A8A1B6D635}|Gestion_Client\\Gestion_Client.csproj|C:\\Users\\MEGA_PC PLUS\\Desktop\\RIAHI_MOHAMED_AYOUB_U6_IR\\ANNEXES\\Code source\\Projet\\gestion_client\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83F7B8AF-0F03-45EF-BF92-78A8A1B6D635}|Gestion_Client\\Gestion_Client.csproj|solutionrelative:gestion_client\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75AA34F7-3A42-46C6-A661-2E91CD19DF53}|MAIN\\MAIN.csproj|C:\\Users\\MEGA_PC PLUS\\Desktop\\RIAHI_MOHAMED_AYOUB_U6_IR\\ANNEXES\\Code source\\Projet\\main\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{75AA34F7-3A42-46C6-A661-2E91CD19DF53}|MAIN\\MAIN.csproj|solutionrelative:main\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA7F090-76E8-4F2D-AC08-1741652D3BA4}|Gestion_Employ\u00E9\\Gestion_Employe.csproj|C:\\Users\\MEGA_PC PLUS\\Desktop\\RIAHI_MOHAMED_AYOUB_U6_IR\\ANNEXES\\Code source\\Projet\\gestion_employ\u00E9\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3FA7F090-76E8-4F2D-AC08-1741652D3BA4}|Gestion_Employ\u00E9\\Gestion_Employe.csproj|solutionrelative:gestion_employ\u00E9\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66C72A37-E855-400A-8C25-E4711063BA91}|Settings\\Settings.csproj|C:\\Users\\MEGA_PC PLUS\\Desktop\\RIAHI_MOHAMED_AYOUB_U6_IR\\ANNEXES\\Code source\\Projet\\Settings\\MainWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66C72A37-E855-400A-8C25-E4711063BA91}|Settings\\Settings.csproj|solutionrelative:Settings\\MainWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75AA34F7-3A42-46C6-A661-2E91CD19DF53}|MAIN\\MAIN.csproj|C:\\Users\\MEGA_PC PLUS\\Desktop\\RIAHI_MOHAMED_AYOUB_U6_IR\\ANNEXES\\Code source\\Projet\\main\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75AA34F7-3A42-46C6-A661-2E91CD19DF53}|MAIN\\MAIN.csproj|solutionrelative:main\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83F7B8AF-0F03-45EF-BF92-78A8A1B6D635}|Gestion_Client\\Gestion_Client.csproj|C:\\Users\\MEGA_PC PLUS\\Desktop\\RIAHI_MOHAMED_AYOUB_U6_IR\\ANNEXES\\Code source\\Projet\\gestion_client\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{83F7B8AF-0F03-45EF-BF92-78A8A1B6D635}|Gestion_Client\\Gestion_Client.csproj|solutionrelative:gestion_client\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA7F090-76E8-4F2D-AC08-1741652D3BA4}|Gestion_Employ\u00E9\\Gestion_Employe.csproj|C:\\Users\\MEGA_PC PLUS\\Desktop\\RIAHI_MOHAMED_AYOUB_U6_IR\\ANNEXES\\Code source\\Projet\\gestion_employ\u00E9\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FA7F090-76E8-4F2D-AC08-1741652D3BA4}|Gestion_Employ\u00E9\\Gestion_Employe.csproj|solutionrelative:gestion_employ\u00E9\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66C72A37-E855-400A-8C25-E4711063BA91}|Settings\\Settings.csproj|C:\\Users\\MEGA_PC PLUS\\Desktop\\RIAHI_MOHAMED_AYOUB_U6_IR\\ANNEXES\\Code source\\Projet\\Settings\\MainWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{66C72A37-E855-400A-8C25-E4711063BA91}|Settings\\Settings.csproj|solutionrelative:Settings\\MainWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\MEGA_PC PLUS\\Desktop\\RIAHI_MOHAMED_AYOUB_U6_IR\\ANNEXES\\Code source\\Projet\\Gestion_Employ\u00E9\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Gestion_Employ\u00E9\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\MEGA_PC PLUS\\Desktop\\RIAHI_MOHAMED_AYOUB_U6_IR\\ANNEXES\\Code source\\Projet\\Gestion_Employ\u00E9\\MainWindow.xaml",
+              "RelativeToolTip": "Gestion_Employ\u00E9\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-02T14:20:48.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\MEGA_PC PLUS\\Desktop\\RIAHI_MOHAMED_AYOUB_U6_IR\\ANNEXES\\Code source\\Projet\\Settings\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Settings\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\MEGA_PC PLUS\\Desktop\\RIAHI_MOHAMED_AYOUB_U6_IR\\ANNEXES\\Code source\\Projet\\Settings\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Settings\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T06:49:35.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bdd.cs",
+              "DocumentMoniker": "C:\\Users\\MEGA_PC PLUS\\Desktop\\RIAHI_MOHAMED_AYOUB_U6_IR\\ANNEXES\\Code source\\Projet\\BiblioProjet\\Bdd.cs",
+              "RelativeDocumentMoniker": "BiblioProjet\\Bdd.cs",
+              "ToolTip": "C:\\Users\\MEGA_PC PLUS\\Desktop\\RIAHI_MOHAMED_AYOUB_U6_IR\\ANNEXES\\Code source\\Projet\\BiblioProjet\\Bdd.cs",
+              "RelativeToolTip": "BiblioProjet\\Bdd.cs",
+              "ViewState": "AgIAAPgAAAAAAAAAAAAqwP4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T12:33:52.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\MEGA_PC PLUS\\Desktop\\RIAHI_MOHAMED_AYOUB_U6_IR\\ANNEXES\\Code source\\Projet\\Gestion_Employ\u00E9\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Gestion_Employ\u00E9\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\MEGA_PC PLUS\\Desktop\\RIAHI_MOHAMED_AYOUB_U6_IR\\ANNEXES\\Code source\\Projet\\Gestion_Employ\u00E9\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Gestion_Employ\u00E9\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAjwBcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T07:20:02.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\MEGA_PC PLUS\\Desktop\\RIAHI_MOHAMED_AYOUB_U6_IR\\ANNEXES\\Code source\\Projet\\Gestion_Client\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Gestion_Client\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\MEGA_PC PLUS\\Desktop\\RIAHI_MOHAMED_AYOUB_U6_IR\\ANNEXES\\Code source\\Projet\\Gestion_Client\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Gestion_Client\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAIwLQAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T07:21:17.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\MEGA_PC PLUS\\Desktop\\RIAHI_MOHAMED_AYOUB_U6_IR\\ANNEXES\\Code source\\Projet\\Gestion_Client\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Gestion_Client\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\MEGA_PC PLUS\\Desktop\\RIAHI_MOHAMED_AYOUB_U6_IR\\ANNEXES\\Code source\\Projet\\Gestion_Client\\MainWindow.xaml",
+              "RelativeToolTip": "Gestion_Client\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-16T07:11:41.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\MEGA_PC PLUS\\Desktop\\RIAHI_MOHAMED_AYOUB_U6_IR\\ANNEXES\\Code source\\Projet\\MAIN\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MAIN\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\MEGA_PC PLUS\\Desktop\\RIAHI_MOHAMED_AYOUB_U6_IR\\ANNEXES\\Code source\\Projet\\MAIN\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MAIN\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAwwBAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T08:03:56.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\MEGA_PC PLUS\\Desktop\\RIAHI_MOHAMED_AYOUB_U6_IR\\ANNEXES\\Code source\\Projet\\MAIN\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MAIN\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\MEGA_PC PLUS\\Desktop\\RIAHI_MOHAMED_AYOUB_U6_IR\\ANNEXES\\Code source\\Projet\\MAIN\\MainWindow.xaml",
+              "RelativeToolTip": "MAIN\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-04T08:03:56.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\MEGA_PC PLUS\\Desktop\\RIAHI_MOHAMED_AYOUB_U6_IR\\ANNEXES\\Code source\\Projet\\Settings\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Settings\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\MEGA_PC PLUS\\Desktop\\RIAHI_MOHAMED_AYOUB_U6_IR\\ANNEXES\\Code source\\Projet\\Settings\\MainWindow.xaml",
+              "RelativeToolTip": "Settings\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-25T13:16:29.169Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

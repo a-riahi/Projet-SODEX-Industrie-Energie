@@ -1,0 +1,58 @@
+﻿<Window x:Class="Settings.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Settings"
+        mc:Ignorable="d"
+        Title="Paramétres" Height="499" Width="459">
+    <Grid RenderTransformOrigin="0.5,1">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="96*"/>
+            <ColumnDefinition Width="145*"/>
+        </Grid.ColumnDefinitions>
+        <!-- Définition des lignes -->
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <!-- Partie 1 -->
+            <RowDefinition Height="90*" />
+            <RowDefinition Height="76*"/>
+            <RowDefinition Height="71*"/>
+            <RowDefinition Height="64*"/>
+            <RowDefinition Height="53*"/>
+            <RowDefinition Height="70*"/>
+            <!-- Partie 2 -->
+        </Grid.RowDefinitions>
+
+        <!-- Première partie avec une couleur de fond et une image -->
+        <Grid Grid.Row="0" Background="#FF7FD1FF" Grid.ColumnSpan="2">
+            <Image HorizontalAlignment="Left" Height="52" Margin="10,6,0,0" VerticalAlignment="Top" Width="95" Source="/Sodex_pic.png" OpacityMask="Black"/>
+        </Grid>
+
+        <!-- Deuxième partie avec une couleur de fond différente -->
+        <Grid Grid.Row="1" Background="White" Grid.ColumnSpan="2" Grid.RowSpan="6">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="75*"/>
+                <RowDefinition Height="73*"/>
+                <RowDefinition Height="77*"/>
+                <RowDefinition Height="71*"/>
+                <RowDefinition Height="129*"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="65*"/>
+                <ColumnDefinition Width="88*"/>
+            </Grid.ColumnDefinitions>
+            <Label Content="Host :" Margin="39,30,44,0" FontSize="14" FontWeight="Bold"/>
+            <Label Content="Port :" Margin="39,32,44,0" Grid.Row="1" FontSize="14" FontWeight="Bold"/>
+            <Label Content="User :" Margin="39,24,44,12" Grid.Row="2" FontSize="14" FontWeight="Bold"/>
+            <Label Content="Password :" Margin="39,16,44,10" Grid.Row="3" FontWeight="Bold" FontSize="14"/>
+            <Label Content="DataBase :" Height="49" Margin="39,16,44,0" VerticalAlignment="Top" Grid.Row="4" FontSize="14" FontWeight="Bold"/>
+            <TextBox x:Name="TxtBoxAdresseIP" HorizontalAlignment="Left" Margin="26,30,0,19" TextWrapping="Wrap" Width="150" x:FieldModifier="public" Grid.Column="1"/>
+            <TextBox x:Name="TxtBoxPort" HorizontalAlignment="Left" Margin="26,32,0,14" TextWrapping="Wrap" Width="150" x:FieldModifier="public" Grid.Column="1" Grid.Row="1"/>
+            <TextBox x:Name="TxtBoxUsername" HorizontalAlignment="Left" Margin="26,24,0,26" TextWrapping="Wrap" Width="150" x:FieldModifier="public" Grid.Column="1" Grid.Row="2"/>
+            <PasswordBox x:Name="PasswordBox" Margin="26,16,0,28" x:FieldModifier="public" Grid.Column="1" Grid.Row="3" HorizontalAlignment="Left" Width="150"/>
+            <TextBox x:Name="TxtBoxbdd" HorizontalAlignment="Left" Height="27" Margin="26,19,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="150" x:FieldModifier="public" Grid.Column="1" Grid.Row="4"/>
+            <Button Content="Enregistrer" Margin="51,0,113,29" Click="Button_Click" Grid.Column="1" Grid.Row="4" Height="26" VerticalAlignment="Bottom" />
+        </Grid>
+    </Grid>
+</Window>

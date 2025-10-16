@@ -1,0 +1,11 @@
+C:\Users\pcsim\OneDrive\Bureau\dllprojet\bin\Debug\dllprojet.dll
+C:\Users\pcsim\OneDrive\Bureau\dllprojet\bin\Debug\dllprojet.pdb
+C:\Users\pcsim\OneDrive\Bureau\dllprojet\bin\Debug\Devart.Data.dll
+C:\Users\pcsim\OneDrive\Bureau\dllprojet\bin\Debug\Devart.Data.Linq.dll
+C:\Users\pcsim\OneDrive\Bureau\dllprojet\bin\Debug\Devart.Data.MySql.dll
+C:\Users\pcsim\OneDrive\Bureau\dllprojet\bin\Debug\Devart.Data.MySql.Linq.dll
+C:\Users\pcsim\OneDrive\Bureau\dllprojet\obj\Debug\dllprojet.csproj.AssemblyReference.cache
+C:\Users\pcsim\OneDrive\Bureau\dllprojet\obj\Debug\dllprojet.csproj.CoreCompileInputs.cache
+C:\Users\pcsim\OneDrive\Bureau\dllprojet\obj\Debug\dllprojet.dll
+C:\Users\pcsim\OneDrive\Bureau\dllprojet\obj\Debug\dllprojet.pdb
+C:\Users\pcsim\OneDrive\Bureau\dllprojet\obj\Debug\dllprojet.csproj.Up2Date

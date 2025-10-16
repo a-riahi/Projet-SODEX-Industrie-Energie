@@ -1,0 +1,30 @@
+C:\Users\MEGA_PC PLUS\source\repos\Projet\Settings\bin\Debug\Settings.exe.config
+C:\Users\MEGA_PC PLUS\source\repos\Projet\Settings\bin\Debug\Settings.exe
+C:\Users\MEGA_PC PLUS\source\repos\Projet\Settings\bin\Debug\Settings.pdb
+C:\Users\MEGA_PC PLUS\source\repos\Projet\Settings\obj\Debug\Settings.csproj.AssemblyReference.cache
+C:\Users\MEGA_PC PLUS\source\repos\Projet\Settings\obj\Debug\MainWindow.g.cs
+C:\Users\MEGA_PC PLUS\source\repos\Projet\Settings\obj\Debug\App.g.cs
+C:\Users\MEGA_PC PLUS\source\repos\Projet\Settings\obj\Debug\Settings_MarkupCompile.cache
+C:\Users\MEGA_PC PLUS\source\repos\Projet\Settings\obj\Debug\Settings_MarkupCompile.lref
+C:\Users\MEGA_PC PLUS\source\repos\Projet\Settings\obj\Debug\MainWindow.baml
+C:\Users\MEGA_PC PLUS\source\repos\Projet\Settings\obj\Debug\Settings.g.resources
+C:\Users\MEGA_PC PLUS\source\repos\Projet\Settings\obj\Debug\Settings.Properties.Resources.resources
+C:\Users\MEGA_PC PLUS\source\repos\Projet\Settings\obj\Debug\Settings.csproj.GenerateResource.cache
+C:\Users\MEGA_PC PLUS\source\repos\Projet\Settings\obj\Debug\Settings.csproj.CoreCompileInputs.cache
+C:\Users\MEGA_PC PLUS\source\repos\Projet\Settings\obj\Debug\Settings.exe
+C:\Users\MEGA_PC PLUS\source\repos\Projet\Settings\obj\Debug\Settings.pdb
+C:\Users\MEGA_PC PLUS\Desktop\RIAHI_MOHAMED_AYOUB_U6_IR\ANNEXES\Code source\Projet\Settings\bin\Debug\Settings.exe.config
+C:\Users\MEGA_PC PLUS\Desktop\RIAHI_MOHAMED_AYOUB_U6_IR\ANNEXES\Code source\Projet\Settings\bin\Debug\Settings.exe
+C:\Users\MEGA_PC PLUS\Desktop\RIAHI_MOHAMED_AYOUB_U6_IR\ANNEXES\Code source\Projet\Settings\bin\Debug\Settings.pdb
+C:\Users\MEGA_PC PLUS\Desktop\RIAHI_MOHAMED_AYOUB_U6_IR\ANNEXES\Code source\Projet\Settings\obj\Debug\Settings.csproj.AssemblyReference.cache
+C:\Users\MEGA_PC PLUS\Desktop\RIAHI_MOHAMED_AYOUB_U6_IR\ANNEXES\Code source\Projet\Settings\obj\Debug\MainWindow.g.cs
+C:\Users\MEGA_PC PLUS\Desktop\RIAHI_MOHAMED_AYOUB_U6_IR\ANNEXES\Code source\Projet\Settings\obj\Debug\App.g.cs
+C:\Users\MEGA_PC PLUS\Desktop\RIAHI_MOHAMED_AYOUB_U6_IR\ANNEXES\Code source\Projet\Settings\obj\Debug\Settings_MarkupCompile.cache
+C:\Users\MEGA_PC PLUS\Desktop\RIAHI_MOHAMED_AYOUB_U6_IR\ANNEXES\Code source\Projet\Settings\obj\Debug\Settings_MarkupCompile.lref
+C:\Users\MEGA_PC PLUS\Desktop\RIAHI_MOHAMED_AYOUB_U6_IR\ANNEXES\Code source\Projet\Settings\obj\Debug\MainWindow.baml
+C:\Users\MEGA_PC PLUS\Desktop\RIAHI_MOHAMED_AYOUB_U6_IR\ANNEXES\Code source\Projet\Settings\obj\Debug\Settings.g.resources
+C:\Users\MEGA_PC PLUS\Desktop\RIAHI_MOHAMED_AYOUB_U6_IR\ANNEXES\Code source\Projet\Settings\obj\Debug\Settings.Properties.Resources.resources
+C:\Users\MEGA_PC PLUS\Desktop\RIAHI_MOHAMED_AYOUB_U6_IR\ANNEXES\Code source\Projet\Settings\obj\Debug\Settings.csproj.GenerateResource.cache
+C:\Users\MEGA_PC PLUS\Desktop\RIAHI_MOHAMED_AYOUB_U6_IR\ANNEXES\Code source\Projet\Settings\obj\Debug\Settings.csproj.CoreCompileInputs.cache
+C:\Users\MEGA_PC PLUS\Desktop\RIAHI_MOHAMED_AYOUB_U6_IR\ANNEXES\Code source\Projet\Settings\obj\Debug\Settings.exe
+C:\Users\MEGA_PC PLUS\Desktop\RIAHI_MOHAMED_AYOUB_U6_IR\ANNEXES\Code source\Projet\Settings\obj\Debug\Settings.pdb

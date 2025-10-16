@@ -1,0 +1,137 @@
+﻿<Window x:Class="MAIN.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MAIN"
+        mc:Ignorable="d"
+            Title="MainWindow" Height="450" Width="820" Background ="#FF338AAF">
+    <Grid Background="AliceBlue"  Margin="10,10,10,10">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="219"/>
+            <ColumnDefinition Width="165*"/>
+            <ColumnDefinition Width="416*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="60"/>
+            <RowDefinition Height="51*"/>
+            <RowDefinition Height="288*"/>
+            <RowDefinition Height="36*"/>
+        </Grid.RowDefinitions>
+
+        <Menu Grid.ColumnSpan="3">
+
+            <MenuItem x:Name="mntConnexionBdd" Header="Connexion BDD" Height="56" Width="158" FontWeight="Bold" FontFamily="Bahnschrift SemiBold" FontSize="14" HorizontalAlignment="Center" VerticalAlignment="Center" Click="MenuConn_Click"/>
+            <MenuItem x:Name="mntConnexionAdmin" Header="Connexion Admin" Height="56" Width="124" FontFamily="Bahnschrift SemiBold" FontWeight="Bold" FontSize="14"  RenderTransformOrigin="0.5,0.5"/>
+            <MenuItem x:Name="mntFichemesures" Header="Fiches de mesures" Height="56" Width="141" FontFamily="Bahnschrift SemiBold" FontSize="14" />
+            <MenuItem x:Name="MenuGestC" Header="Gérer Clients" Height="56" Width="109" FontFamily="Bahnschrift SemiBold" FontSize="14" Click="MenuGestC_Click"/>
+            <MenuItem x:Name="mntParamètresBdd" Header="Paramètres BDD" Height="56" Width="140" FontFamily="Bahnschrift SemiBold" FontSize="14" Click="MenuPara_Click"/>
+            <MenuItem x:Name="MenuGestE" Header="Gérer employé
+                      " Width="106" Click="MenuGestE_Click_1" FontSize="14" FontFamily="Bahnschrift SemiBold"/>
+
+        </Menu>
+
+        <Label Content="Clients :"  Grid.Row="1" Margin="82,0,82,2" Height="24" VerticalAlignment="Bottom"/>
+        <Label Content="Commandes :"  Grid.Row="1" Grid.Column="1" Margin="35,0,35,1" Height="25" VerticalAlignment="Bottom" />
+        <Label Content="Détails de la Commande :"  Grid.Row="1" Grid.Column="2" Margin="0,0,0,1" HorizontalAlignment="Center" Width="148" Height="24" VerticalAlignment="Bottom"/>
+
+
+
+        <Border Background="Black" Padding="1.5"  Grid.Row="2">
+            <Grid Background="White">
+
+                <ListView x:Name="Lst_Clients" SelectionChanged="Lst_Clients_SelectionChanged"   >
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <Grid>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="*"/>
+                                    <ColumnDefinition Width="*"/>
+                                    <ColumnDefinition Width="*"/>
+                                    <ColumnDefinition Width="*"/>
+                                    <ColumnDefinition Width="*"/>
+
+                                </Grid.ColumnDefinitions>
+                                <TextBlock Text="{Binding NomE}" Grid.Column="0"></TextBlock>
+                                <TextBlock Text=" => " Grid.Column="1"></TextBlock>
+                                <TextBlock Text="{Binding NomC}" Grid.Column="2"></TextBlock>
+                                <TextBlock Text="  " Grid.Column="3"></TextBlock>
+                                <TextBlock Text="{Binding PrenomC}" Grid.Column="4"></TextBlock>
+                            </Grid>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                    <ListView.ContextMenu>
+                        <ContextMenu Name="CmAjoutCommande"  >
+                            <MenuItem x:Name="mntAjoutcde" Header="Ajouter une commande"  >
+
+                            </MenuItem>
+
+                        </ContextMenu>
+                    </ListView.ContextMenu>
+                </ListView>
+            </Grid>
+
+        </Border>
+        <Border BorderBrush="Black" Background="Black" Padding="1.5" BorderThickness="1" Grid.Column="1" Grid.Row="2">
+            <Grid Grid.Column="1" Grid.Row="2" Background="White">
+                <ListView x:Name="Lst_Commande" >
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <Grid>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="*"/>
+                                    <ColumnDefinition Width="*"/>
+                                    <ColumnDefinition Width="*"/>
+                                    <ColumnDefinition Width="*"/>
+
+                                </Grid.ColumnDefinitions>
+                                <TextBlock Text="Commandes avec " Grid.Column="0"></TextBlock>
+                                <TextBlock Text="{Binding NbPlan}" Grid.Column="1"></TextBlock>
+                                <TextBlock Text=" plan(s) Etats: " Grid.Column="2"></TextBlock>
+                                <TextBlock Text="{Binding EtatCmd}" Grid.Column="3"></TextBlock>
+                            </Grid>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                    <ListView.ContextMenu>
+                        <ContextMenu>
+                            <MenuItem Header="Ajouter plans" Name="btn_Ajouer_plan"   >
+
+
+                            </MenuItem>
+                            <MenuItem Header="Modifier commande " >
+
+                            </MenuItem>
+                            <MenuItem Header="Supprimer commande " >
+
+                            </MenuItem>
+                        </ContextMenu>
+                    </ListView.ContextMenu>
+                </ListView>
+            </Grid>
+        </Border>
+        <Border BorderBrush="Black" BorderThickness="1" Grid.Column="2" Grid.Row="2" Background="Black" Padding="1.5">
+            <Grid Grid.Column="2" Grid.Row="2" Background="White">
+                <ListView x:Name="Lst_Détails" >
+                    <ListView.ContextMenu>
+                        <ContextMenu>
+                            <MenuItem Header="Supprimer Plan">
+
+                            </MenuItem>
+                            <MenuItem Header="Modifier Plan">
+
+                            </MenuItem>
+                        </ContextMenu>
+                    </ListView.ContextMenu>
+                </ListView>
+            </Grid>
+        </Border>
+        <Grid Grid.Row="3">
+            <Label HorizontalAlignment="Center" VerticalAlignment="Center" Width="219">
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Text="Etat de la connexion à la BDD"/>
+                </StackPanel>
+            </Label>
+        </Grid>
+    </Grid>
+
+</Window>

@@ -1,0 +1,26 @@
+C:\Users\MEGA_PC PLUS\source\repos\Projet\BiblioProjet\bin\Debug\BiblioProjet.dll
+C:\Users\MEGA_PC PLUS\source\repos\Projet\BiblioProjet\bin\Debug\BiblioProjet.pdb
+C:\Users\MEGA_PC PLUS\source\repos\Projet\BiblioProjet\bin\Debug\Devart.Data.dll
+C:\Users\MEGA_PC PLUS\source\repos\Projet\BiblioProjet\bin\Debug\Devart.Data.MySql.dll
+C:\Users\MEGA_PC PLUS\source\repos\Projet\BiblioProjet\bin\Debug\Devart.Data.MySql.Linq.dll
+C:\Users\MEGA_PC PLUS\source\repos\Projet\BiblioProjet\bin\Debug\dllprojet.dll
+C:\Users\MEGA_PC PLUS\source\repos\Projet\BiblioProjet\bin\Debug\dllprojet.pdb
+C:\Users\MEGA_PC PLUS\source\repos\Projet\BiblioProjet\obj\Debug\BiblioProjet.csproj.AssemblyReference.cache
+C:\Users\MEGA_PC PLUS\source\repos\Projet\BiblioProjet\obj\Debug\BiblioProjet.csproj.CoreCompileInputs.cache
+C:\Users\MEGA_PC PLUS\source\repos\Projet\BiblioProjet\obj\Debug\BiblioPr.62BD5F34.Up2Date
+C:\Users\MEGA_PC PLUS\source\repos\Projet\BiblioProjet\obj\Debug\BiblioProjet.dll
+C:\Users\MEGA_PC PLUS\source\repos\Projet\BiblioProjet\obj\Debug\BiblioProjet.pdb
+C:\Users\MEGA_PC PLUS\source\repos\Projet\BiblioProjet\bin\Debug\Devart.Data.Linq.dll
+C:\Users\MEGA_PC PLUS\Desktop\RIAHI_MOHAMED_AYOUB_U6_IR\ANNEXES\Code source\Projet\BiblioProjet\bin\Debug\BiblioProjet.dll
+C:\Users\MEGA_PC PLUS\Desktop\RIAHI_MOHAMED_AYOUB_U6_IR\ANNEXES\Code source\Projet\BiblioProjet\bin\Debug\BiblioProjet.pdb
+C:\Users\MEGA_PC PLUS\Desktop\RIAHI_MOHAMED_AYOUB_U6_IR\ANNEXES\Code source\Projet\BiblioProjet\bin\Debug\Devart.Data.dll
+C:\Users\MEGA_PC PLUS\Desktop\RIAHI_MOHAMED_AYOUB_U6_IR\ANNEXES\Code source\Projet\BiblioProjet\bin\Debug\Devart.Data.Linq.dll
+C:\Users\MEGA_PC PLUS\Desktop\RIAHI_MOHAMED_AYOUB_U6_IR\ANNEXES\Code source\Projet\BiblioProjet\bin\Debug\Devart.Data.MySql.dll
+C:\Users\MEGA_PC PLUS\Desktop\RIAHI_MOHAMED_AYOUB_U6_IR\ANNEXES\Code source\Projet\BiblioProjet\bin\Debug\Devart.Data.MySql.Linq.dll
+C:\Users\MEGA_PC PLUS\Desktop\RIAHI_MOHAMED_AYOUB_U6_IR\ANNEXES\Code source\Projet\BiblioProjet\bin\Debug\dllprojet.dll
+C:\Users\MEGA_PC PLUS\Desktop\RIAHI_MOHAMED_AYOUB_U6_IR\ANNEXES\Code source\Projet\BiblioProjet\bin\Debug\dllprojet.pdb
+C:\Users\MEGA_PC PLUS\Desktop\RIAHI_MOHAMED_AYOUB_U6_IR\ANNEXES\Code source\Projet\BiblioProjet\obj\Debug\BiblioProjet.csproj.AssemblyReference.cache
+C:\Users\MEGA_PC PLUS\Desktop\RIAHI_MOHAMED_AYOUB_U6_IR\ANNEXES\Code source\Projet\BiblioProjet\obj\Debug\BiblioProjet.csproj.CoreCompileInputs.cache
+C:\Users\MEGA_PC PLUS\Desktop\RIAHI_MOHAMED_AYOUB_U6_IR\ANNEXES\Code source\Projet\BiblioProjet\obj\Debug\BiblioPr.62BD5F34.Up2Date
+C:\Users\MEGA_PC PLUS\Desktop\RIAHI_MOHAMED_AYOUB_U6_IR\ANNEXES\Code source\Projet\BiblioProjet\obj\Debug\BiblioProjet.dll
+C:\Users\MEGA_PC PLUS\Desktop\RIAHI_MOHAMED_AYOUB_U6_IR\ANNEXES\Code source\Projet\BiblioProjet\obj\Debug\BiblioProjet.pdb
